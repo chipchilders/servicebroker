@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Open Service Broker API
-permalink: /spec/
+permalink: /
 ---
 
 # Service Broker Specification
