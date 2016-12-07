@@ -1,0 +1,14 @@
+# Site Settings
+title: Open Service Broker API
+email: open-service-broker-api@googlegroups.com
+description: >
+  Open Service Broker API specification
+baseurl: ""
+url: "http://localhost:4000"
+twitter_username: cloudfoundry
+github_username:  openservicebrokerapi
+# Build Settings
+sass:
+  sass_dir: _sass
+kramdown:
+  input: GFM

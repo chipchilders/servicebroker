@@ -1,3 +1,9 @@
+---
+layout: page
+title: Open Service Broker API
+permalink: /spec/
+---
+
 # Service Broker Specification
 
 # Abstract
