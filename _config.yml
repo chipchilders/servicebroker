@@ -10,5 +10,6 @@ github_username:  openservicebrokerapi
 # Build Settings
 sass:
   sass_dir: _sass
-kramdown:
-  input: GFM
+markdown: kramdown
+#kramdown:
+#  input: GFM
